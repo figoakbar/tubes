@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1556448086 source:d:\program-program\tubes_std_tinggal_insert_terurut\doen.cpp
+	"dosen.h"
+
+1556446117 d:\program-program\tubes_std_tinggal_insert_terurut\dosen.h
+	<iostream>
+
+1555607642 source:d:\program-program\tubes_std_tinggal_insert_terurut\main.cpp
+	<iostream>
+	"dosen.h"
+	"menu.h"
+
+1556034076 d:\program-program\tubes_std_tinggal_insert_terurut\menu.h
+	"dosen.h"
+	"tubes.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1556444506 d:\program-program\tubes_std_tinggal_insert_terurut\tubes.h
+	<iostream>
+
+1556539697 source:d:\program-program\tubes_std_tinggal_insert_terurut\menu.cpp
+	"menu.h"
+	"dosen.h"
+	"tubes.h"
+	"relasi.h"
+	<stdlib.h>
+	<conio.h>
+
+1556444506 d:\program-program\tubes_std_tinggal_insert_terurut\relasi.h
+	<iostream>
+	"dosen.h"
+	"tubes.h"
+
+1556539059 source:d:\program-program\tubes_std_tinggal_insert_terurut\relasi.cpp
+	"relasi.h"
+
+1556444569 source:d:\program-program\tubes_std_tinggal_insert_terurut\tubes.cpp
+	"tubes.h"
+

@@ -6,3 +6,134 @@
 1554821966 d:\tubes\tubes_std\tubes.h
 	<iostream>
 
+1555605109 source:d:\tubes\tubes_std\doen.cpp
+	"dosen.h"
+
+1555605192 d:\tubes\tubes_std\dosen.h
+	<iostream>
+
+1555983097 source:d:\tubes\tubes_std\aplikasi.cpp
+
+1555983098 source:d:\program-program\tubes_std\aplikasi.cpp
+
+1556116734 source:d:\program-program\tubes_std\doen.cpp
+	"dosen.h"
+
+1556074253 d:\program-program\tubes_std\dosen.h
+	<iostream>
+
+1555607642 source:d:\program-program\tubes_std\main.cpp
+	<iostream>
+	"dosen.h"
+	"menu.h"
+
+1556034074 d:\program-program\tubes_std\menu.h
+	"dosen.h"
+	"tubes.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1556074432 d:\program-program\tubes_std\tubes.h
+	<iostream>
+
+1556083868 source:d:\program-program\tubes_std\tubes.cpp
+	"tubes.h"
+
+1556116734 source:d:\program-program\tubes_std\relasi.cpp
+	"relasi.h"
+
+1556115303 d:\program-program\tubes_std\relasi.h
+	<iostream>
+	"dosen.h"
+	"tubes.h"
+
+1556116734 source:d:\program-program\tubes_std\menu.cpp
+	"menu.h"
+	"dosen.h"
+	"tubes.h"
+	"relasi.h"
+
+1556206388 source:d:\tubes_std_tinggal delete mahasiswa\doen.cpp
+	"dosen.h"
+
+1556074254 d:\tubes_std_tinggal delete mahasiswa\dosen.h
+	<iostream>
+
+1555607642 source:d:\tubes_std_tinggal delete mahasiswa\main.cpp
+	<iostream>
+	"dosen.h"
+	"menu.h"
+
+1556034076 d:\tubes_std_tinggal delete mahasiswa\menu.h
+	"dosen.h"
+	"tubes.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1556074434 d:\tubes_std_tinggal delete mahasiswa\tubes.h
+	<iostream>
+
+1556298108 source:d:\tubes_std_tinggal delete mahasiswa\relasi.cpp
+	"relasi.h"
+
+1556115304 d:\tubes_std_tinggal delete mahasiswa\relasi.h
+	<iostream>
+	"dosen.h"
+	"tubes.h"
+
+1556083870 source:d:\tubes_std_tinggal delete mahasiswa\tubes.cpp
+	"tubes.h"
+
+1556296469 source:d:\tubes_std_tinggal delete mahasiswa\menu.cpp
+	"menu.h"
+	"dosen.h"
+	"tubes.h"
+	"relasi.h"
+	<stdlib.h>
+	<conio.h>
+
+1556448086 source:d:\program-program\tubes_std_tinggal_insert_terurut\doen.cpp
+	"dosen.h"
+
+1556446117 d:\program-program\tubes_std_tinggal_insert_terurut\dosen.h
+	<iostream>
+
+1555607642 source:d:\program-program\tubes_std_tinggal_insert_terurut\main.cpp
+	<iostream>
+	"dosen.h"
+	"menu.h"
+
+1556034076 d:\program-program\tubes_std_tinggal_insert_terurut\menu.h
+	"dosen.h"
+	"tubes.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1556444506 d:\program-program\tubes_std_tinggal_insert_terurut\tubes.h
+	<iostream>
+
+1556539059 source:d:\program-program\tubes_std_tinggal_insert_terurut\relasi.cpp
+	"relasi.h"
+
+1556444506 d:\program-program\tubes_std_tinggal_insert_terurut\relasi.h
+	<iostream>
+	"dosen.h"
+	"tubes.h"
+
+1556539697 source:d:\program-program\tubes_std_tinggal_insert_terurut\menu.cpp
+	"menu.h"
+	"dosen.h"
+	"tubes.h"
+	"relasi.h"
+	<stdlib.h>
+	<conio.h>
+
+1556444569 source:d:\program-program\tubes_std_tinggal_insert_terurut\tubes.cpp
+	"tubes.h"
+

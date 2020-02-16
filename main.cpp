@@ -1,10 +1,10 @@
-#include "tubes.h"
 #include <iostream>
+#include "dosen.h"
+#include "menu.h"
 
 using namespace std;
 
 int main()
 {
-    allocation();
-    return 0;
+    Menu();
 }
